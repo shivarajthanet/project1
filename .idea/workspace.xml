@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f145b61-e5df-4ebe-bb94-1d83e8b69122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/basic/AddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/basic/AddNumSc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/shivathanet/Desktop/code practice/java_learning/src/main/java/com/java/basic/Main.java"
+    "onboarding.tips.debug.path": "/Users/shivathanet/Desktop/code practice/java_learning/src/main/java/com/java/basic/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
