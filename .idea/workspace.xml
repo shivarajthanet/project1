@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f145b61-e5df-4ebe-bb94-1d83e8b69122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/methods/AbstractMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/methods/FinalMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/methods/InstanceMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/methods/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/methods/SynchronizedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/variables/FinalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/variables/InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/variables/LocalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/variables/StaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/variables/TransientVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/variables/VolatileVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage1/AToB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage1/AtoB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage2/AToC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,35 +54,48 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SynchronizedMethod">
+  <component name="RunManager" selected="Application.AToC">
+    <configuration name="AToB1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.packagetopackage1.AToB1" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.packagetopackage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AToC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.packagetopackage2.AToC" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.packagetopackage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtoB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.packagetopackage1.AtoB2" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.packagetopackage1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FinalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.methods.FinalMethod" />
-      <module name="java_learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InstanceMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.methods.InstanceMethod" />
-      <module name="java_learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.methods.StaticMethod" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
@@ -117,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransientVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.variables.TransientVariable" />
-      <module name="java_learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AToC" />
+        <item itemvalue="Application.AtoB2" />
+        <item itemvalue="Application.AToB1" />
         <item itemvalue="Application.SynchronizedMethod" />
         <item itemvalue="Application.FinalMethod" />
-        <item itemvalue="Application.StaticMethod" />
-        <item itemvalue="Application.InstanceMethod" />
-        <item itemvalue="Application.TransientVariable" />
       </list>
     </recent_temporary>
   </component>
