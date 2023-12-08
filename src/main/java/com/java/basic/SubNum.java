@@ -7,6 +7,8 @@ public class SubNum {
         System.out.println(60-20);
         System.out.println("My name is shiva");
         System.out.println("Her name is Nirmaya");
+        System.out.println("Her name is Selena");
+        System.out.println("Her name is Nabina");
 	}
 
 }
