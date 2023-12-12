@@ -1,13 +1,13 @@
-package com.java.packagetopackage1;
+package com.java.classaccess.package1;
 
-public class AToB1 {
+public class A {
     public int a = 10;
     private int b = 20;
     protected int c = 30;
     int d = 40;
 
     public static void main(String[] args) {
-        AToB1 obj = new AToB1();
+        A obj = new A();
         System.out.println("A = "+obj.a);
         System.out.println("B = "+obj.b);
         System.out.println("C = "+obj.c);

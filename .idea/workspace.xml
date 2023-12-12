@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f145b61-e5df-4ebe-bb94-1d83e8b69122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage1/AToB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage1/AtoB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage2/AToC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/extend/package1/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/extend/package1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/extend/package2/Child2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/flowcontrols/selectionstatements/IfElse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage1/AToB1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/classaccess/package1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage1/AtoB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/classaccess/package1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/packagetopackage2/AToC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/classaccess/package2/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +51,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/shivathanet/Desktop/code practice/java_learning/src/main/java/com/java/basic/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
@@ -54,7 +60,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AToC">
+  <component name="RunManager" selected="Application.IfElse">
     <configuration name="AToB1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.packagetopackage1.AToB1" />
       <module name="java_learning" />
@@ -94,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.methods.FinalMethod" />
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.flowcontrols.selectionstatements.IfElse" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.methods.*" />
+          <option name="PATTERN" value="com.java.flowcontrols.selectionstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.AToC" />
         <item itemvalue="Application.AtoB2" />
         <item itemvalue="Application.AToB1" />
         <item itemvalue="Application.SynchronizedMethod" />
-        <item itemvalue="Application.FinalMethod" />
       </list>
     </recent_temporary>
   </component>

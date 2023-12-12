@@ -1,10 +1,10 @@
-package com.java.packagetopackage2;
+package com.java.classaccess.package2;
 
-import com.java.packagetopackage1.AToB1;
+import com.java.classaccess.package1.A;
 
-public class AToC {
+public class C {
     public static void main(String[] args) {
-        AToB1 obj = new AToB1();
+        A obj = new A();
         System.out.println("A = "+obj.a); // only public is accessed from one package class to another package class
         /*System.out.println("B = "+obj.b);
         System.out.println("C = "+obj.c);
